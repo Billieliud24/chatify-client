@@ -1,0 +1,24 @@
+.chatpage {
+    display: flex;
+    height: 100vh;
+    background: #f0f2f5;
+  }
+  
+  
+  .chatpage-sidenav {
+    width: 250px;
+    background: #fff;
+    border-right: 1px solid #e5e5e5;
+    padding: 20px;
+    display: flex;
+    
+    justify-content: space-between;
+    box-shadow: 2px 0 5px rgba(0,0,0,0.05);
+  }
+ 
+  .chatpage-main {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+  }
+  
