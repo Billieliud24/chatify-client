@@ -1,6 +1,6 @@
 import SideNav from'../../Components/SideNav/SideNav.jsx';
 import ChatContent from'../../Components/ChatContent/ChatContent.jsx'
-import "./chat.css"
+import "./Chat.css"
 
 const Chat = () => {
   return (
